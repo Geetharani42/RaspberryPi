@@ -1,0 +1,4 @@
+Raspberry Pi interfaced with four switches: one for enrolling, deleting, increment & decrement
+
+Use the command below for installing fingerprint sensor library
+"sudo pip3 install pyfingerprint"
